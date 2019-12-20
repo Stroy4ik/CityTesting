@@ -6,7 +6,7 @@
 - https://m.citybase.in.ua/v3/auth/registration - регистрация
 - https://m.citybase.in.ua/v3/auth/reset-password - сброс пароля
 
-Так как реальная отправка SMS отключена, то коды можно увидеть на служебной странице, которая будет удалено в продакшене:
+Так как реальная отправка SMS отключена, то коды можно увидеть на служебной странице:
 
 https://m.citybase.in.ua/v3/test/users
 
